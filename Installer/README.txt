@@ -1,1 +1,0 @@
--> Copy KinectFusion180_64.dll to installation path (Default: C:\Users\<name>\AppData\Local\Apps\2.0)
