@@ -2,8 +2,9 @@
 
 ![windows](https://img.shields.io/badge/Windows-7%20%7C%2010-blue)
 ![Kinect](https://img.shields.io/badge/Kinect-v1%20%7C%20v2-blueviolet)
+![License](https://img.shields.io/github/license/homebrew-bionics/Residual-Limb-Scanner)
 
-A WPF application for scanning residual limb of the amputee.
+A WPF application for scanning the residual limb of an amputee.
 
 ![rlscanner](https://github.com/homebrew-bionics/Residual-Limb-Scanner/blob/main/rlscanner.png)
 
