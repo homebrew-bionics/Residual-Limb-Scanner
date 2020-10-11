@@ -1,5 +1,8 @@
 # Residual limb Scanner
 
+![windows](https://img.shields.io/badge/Windows-7%20%7C%2010-blue)
+![Kinect](https://img.shields.io/badge/Kinect-v1%20%7C%20v2-blueviolet)
+
 A WPF application for scanning residual limb of the amputee.
 
 ![rlscanner](https://github.com/homebrew-bionics/Residual-Limb-Scanner/blob/main/rlscanner.png)
@@ -20,4 +23,4 @@ A WPF application for scanning residual limb of the amputee.
 
 # Results
 
-![results](https://github.com/homebrew-bionics/Residual-Limb-Scanner/blob/main/results.gif)
+<img src="https://github.com/homebrew-bionics/Residual-Limb-Scanner/blob/main/results.gif" alt="results" width="900"/>
